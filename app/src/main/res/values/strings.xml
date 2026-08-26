@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi-Activity Login &amp; Profile</string>
+    <string name="evay">Evay</string>
+    <string name="nick">Nick</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="register">Registrarse</string>
+    <string name="orders">Pedidos</string>
+    <string name="profile">Perfil</string>
+    <string name="contact">Contactar</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="register_heading">Regístrese</string>
+    <string name="update_profile">Actualizar perfil</string>
+    <string name="credentials_required">Introduzca nick y contraseña.</string>
+    <string name="invalid_credentials">Nick y/o contraseña no válidos.</string>
+    <string name="registration_success">Registro completado con éxito.</string>
+    <string name="registration_cancelled">Registro cancelado.</string>
+    <string name="profile_updated">Datos actualizados correctamente.</string>
+    <string name="profile_update_cancelled">Actualización cancelada.</string>
+    <string name="review_profile_data">Revise los datos introducidos.</string>
+    <string name="missing_user">No se recibió un usuario válido.</string>
+    <string name="invalid_profile_result">La pantalla de perfil devolvió datos no válidos.</string>
+    <string name="invalid_profile_mode">Modo de perfil no válido.</string>
+    <string name="no_browser">No hay una aplicación disponible para abrir el enlace.</string>
+    <string name="welcome_male">bienvenido</string>
+    <string name="welcome_female">bienvenida</string>
+    <string name="orders_heading">%1$s (%2$s), %3$s. Sus pedidos:</string>
+    <string name="no_orders_demo">Esta práctica no implementa un catálogo de pedidos; la pantalla conserva el alcance del enunciado original.</string>
+    <string name="demo_first_name">Andrés</string>
+    <string name="demo_last_name">Herminio Jiménez</string>
+</resources>
